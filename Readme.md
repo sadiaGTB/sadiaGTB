@@ -9,6 +9,6 @@ Batch     : 60
 Section   : E
 Institute : Uttara University
 
-Depaetment of CSE
+Department of CSE
 
 Course teacher : Tofayet Sultan
